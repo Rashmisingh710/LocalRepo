@@ -1,0 +1,16 @@
+*heading tag
+*paragraph
+*break
+
+*cond---only write this property in body tag  ,Like <body bgcolor="color"  text="color"  align="center"
+
+*bgcolor="green"----use to change background color(it change the whole page color bcz whole page is consider as one page)
+*text="white"  ----    to change the text color
+*align="center"------------left,right,center
+
+execution in vs code n breowser is diff it will not give you d same in browser
+Lorem*10---it should give 10 line of random text
+lorem--- to create single line of text
+*press ctrl+x to cut the text & press p -enter after that paste in <p>paragraph
+
+p--paragraph tag is tag which is use to provide one empty line before the text n after the text
